@@ -1,3 +1,4 @@
 ### Welcome to Kala's HomePage 👋
 
-- 👀 一名计算机专业的新手小白
+- 👀 A Rookie
+- 👀 Contact With Me : 2206113829@stu.xjtu.edu.cn
