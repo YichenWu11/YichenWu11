@@ -1,6 +1,7 @@
 ### Welcome to Kala's HomePage 👋
 
-- 👀 A CS Rookie
+- 👀 A CS Rookie 
+- ✔  Interested in Game Engine
 - 👀 Contact Me : 2206113829@stu.xjtu.edu.cn
 <br/>
 
