@@ -1,4 +1,4 @@
-### Welcome to Kala's HomePage 👋
+### Welcome to My HomePage 👋
 
 - 👀 A CS Rookie 
 - ✔  Interested in Game Engine
