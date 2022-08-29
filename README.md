@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YichenWu11&layout=compact&show_icons=true&count_private=true&theme=gotham)](https://github.com/YichenWu11/github-readme-stats)
 <br/>
  
-<table><tr><td valign="top" width="33%">
+<table frame=void><tr><td valign="top" width="33%">
 
 <div align="left">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
