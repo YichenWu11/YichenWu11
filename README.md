@@ -7,11 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YichenWu11&layout=compact&show_icons=true&count_private=true&theme=gotham)](https://github.com/YichenWu11/github-readme-stats)
 <br/>
-
-<br/>  
-
-
-## My Skill Set  
+ 
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -22,14 +18,6 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
