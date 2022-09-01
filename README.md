@@ -1,7 +1,7 @@
 ### Welcome to My HomePage 🎈🎈🎈
 
-- 👀 A CS Rookie 
-- ✔  Interested in Game Engine
+- 📖 A CS Rookie 
+- 🎮  Interested in Game Engine
 - 📧 Contact Me : 2206113829@stu.xjtu.edu.cn
 <br/>
 
