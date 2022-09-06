@@ -10,8 +10,9 @@
 ---
 
 - 📖 A CS Rookie 
-- 🎮  Interested in Game Engine and Computer Graphics
+- 🎮 Interested in Game Engine and Computer Graphics
 - 📧 Contact Me : 2206113829@stu.xjtu.edu.cn
+- 🥇 The early bird catches the worm
 
 ---
 
