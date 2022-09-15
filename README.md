@@ -9,7 +9,7 @@
 
 ---
 
-- 📖 A XJTU Computer Science Rookie 
+- 📖 A Computer Science Rookie 
 - 🎮 Interested in Game Engine and Computer Graphics
 - 📧 Contact Me : 2206113829@stu.xjtu.edu.cn
 - 🥇 The early bird catches the worm
