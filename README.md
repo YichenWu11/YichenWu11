@@ -11,7 +11,7 @@
 
 - 📖 A Computer Science Rookie 
 - 🎮 Interested in Game Engine and Computer Graphics
-- 📧 Contact Me : 2206113829@stu.xjtu.edu.cn
+- 📧 Contact Me : yichenwu11@outlook.com
 - 🥇 The early bird catches the worm
 
 ---
