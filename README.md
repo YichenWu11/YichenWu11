@@ -11,7 +11,7 @@
 
 - 📖 A Computer Science Rookie 
 - 🎮 Interested in Game Engine and Computer Graphics
-- 📧 Contact Me : yichenwu11@outlook.com
+- 📧 Reach Me : yichenwu11@outlook.com
 - 🥇 The early bird catches the worm
 
 ---
