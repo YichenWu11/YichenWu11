@@ -10,7 +10,7 @@
 ---
 
 - 📖 A Computer Science Rookie 
-- 🎮 Interested in Game Engine
+- 🎮 Interested in Game Engine and Computer Graphics
 - 📧 Reach Me : yichenwu11@outlook.com
 - 🥇 The early bird catches the worm
 
