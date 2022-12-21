@@ -9,7 +9,7 @@
 
 ---
 
-- 📖 A Computer Science Novices 
+- 📖 A Computer Science novice 
 - 🎮 Interested in Game Engine and Computer Graphics
 - 📧 Reach Me : yichenwu11@outlook.com
 - 🥇 The early bird catches the worm
