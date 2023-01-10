@@ -1,4 +1,4 @@
-### YichenWu11 Here 🎈🎈🎈
+### YichenWu11 Here 
 
 ---
 
