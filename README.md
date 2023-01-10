@@ -9,7 +9,6 @@
 
 <!-- --- -->
 
-- 📖 A Computer Science novice 
 - 🎮 Interested in GamePlay, Game Engine and Computer Graphics
 - 📧 Reach Me : yichenwu11@outlook.com
 
