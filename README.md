@@ -9,7 +9,7 @@
 
 <!-- --- -->
 
-- 🎮 Interested in GamePlay, Game Engine and Computer Graphics
+- 🎮 Interested in Gameplay, Game Engine and Computer Graphics
 - 📧 Reach Me : yichenwu11@outlook.com
 
 ---
