@@ -10,8 +10,7 @@
 <!-- --- -->
 
 - 🎮 Interested in Gameplay, Game Engine and Computer Graphics
-- 📧 Reach Me : yichenwu11@outlook.com
-
+- 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YichenWu11&layout=compact&theme=gotham)](https://github.com/YichenWu11/github-readme-stats)
