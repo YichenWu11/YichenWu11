@@ -10,7 +10,7 @@
 <!-- --- -->
 
 - 🎮 Interested in Gameplay, Game Engine and Computer Graphics
-- 📧 Email here : yichenwu11@outlook.com
+- 📧 Email here : yichenwu11@outlook.com / klayycwu@tencent.com
 
 ---
 
