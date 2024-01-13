@@ -11,7 +11,7 @@
 
 - 💻 Engine Engineer
 - 🎮 Interested in Gameplay, Game Engine and Computer Graphics
-- 📧 Email here : yichenwu11@outlook.com
+- 📧 Email : yichenwu11@outlook.com
 
 ---
 
