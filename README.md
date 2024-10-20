@@ -9,9 +9,8 @@
 
 <!-- --- -->
 
-- 💻 Engine Engineer
-- 🎮 Interested in Gameplay, Game Engine and Computer Graphics
-- 📧 Email : yichenwu11@outlook.com
+- 💻 Game Graphics Programmer
+- 📧 Email : 2950335254@qq.com
 
 ---
 
