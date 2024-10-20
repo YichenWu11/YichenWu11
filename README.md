@@ -10,7 +10,6 @@
 <!-- --- -->
 
 - 💻 Game Graphics Programmer
-- 📧 Email : 2950335254@qq.com
 
 ---
 
